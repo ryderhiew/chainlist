@@ -5,14 +5,14 @@ export const data = {
   faucets: ["https://faucet.hypercluster.org"],
   nativeCurrency: {
     name: "HyperCluster Token",
-    symbol: "HYPEC",
+    symbol: "HPX",
     decimals: 18,
   },
   features: [{ name: "EIP155" }, { name: "EIP1559" }],
   infoURL: "https://www.hypercluster.org/",
   shortName: "HYPEC",
-  chainId: 825878,
-  networkId: 825878,
+  chainId: 838838,
+  networkId: 838838,
   icon: "https://hypercluster.org/img/favicon.png",
   explorers: [
     {
